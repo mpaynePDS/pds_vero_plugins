@@ -1,22 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <plugins>
-  <pyqgis_plugin name="Vero BOM" version="0.1">
+  <pyqgis_plugin name="Vero BOM" version="3.10.29">
     <description>Vero BOM</description>
     <qgis_minimum_version>3.0</qgis_minimum_version>
-    <file_name>Vero BOM</file_name>
+    <file_name>vero_bom</file_name>
     <author_name>PDS</author_name>
     <email>mpayne@precision-design.org</email>
-    <download_url>https://github.com/mpaynePDS/pds_vero_plugins/blob/main/vero_bom.zip</download_url>
+    <download_url>https://mpaynepds.github.io/pds_vero_plugins/vero_bom.zip</download_url>
   </pyqgis_plugin>
 
-  <pyqgis_plugin name="Katapult Import" version="0.1">
+  <pyqgis_plugin name="Katapult Import" version="2.8.25">
     <description>Imports data from Katapult</description>
     <qgis_minimum_version>3.0</qgis_minimum_version>
-    <file_name>Katapult Import</file_name>
+    <file_name>katapul_importer</file_name>
     <author_name>PDS</author_name>
     <email>mpayne@precision-design.org</email>
-    <download_url>https://github.com/mpaynePDS/pds_vero_plugins/blob/main/katapul_importer.zip</download_url>
+    <download_url>https://mpaynepds.github.io/pds_vero_plugins/katapul_importer.zip</download_url>
   </pyqgis_plugin>
+  
+  <pyqgis_plugin name="Katapult Import" version="3.11.4">
+  <qgisMinimumVersion>3.0</qgisMinimumVersion>
+  <description>vero qc tool</description>
+  <file_name>katapul_importer</file_name>
+  <author>PDS</author>
+  <email>mpayne@precision-design.org</email>
+  <download_url>https://mpaynepds.github.io/pds_vero_plugins/vero_qc.zip</download_url>
+</qgis_plugin>
 
 </plugins>
+
 
