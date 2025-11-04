@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plugins>
+  <pyqgis_plugin name="Vero BOM" version="0.1">
+    <description>Vero BOM</description>
+    <qgis_minimum_version>3.0</qgis_minimum_version>
+    <file_name>Vero BOM</file_name>
+    <author_name>PDS</author_name>
+    <email>mpayne@precision-design.org</email>
+    <download_url>https://drive.google.com/uc?export=download&id=14rriJVzMwOAWO8wVQyS_tnRUJmYDeK_Q</download_url>
+  </pyqgis_plugin>
+
+  <pyqgis_plugin name="Katapult Import" version="0.1">
+    <description>Imports data from Katapult</description>
+    <qgis_minimum_version>3.0</qgis_minimum_version>
+    <file_name>Katapult Import</file_name>
+    <author_name>PDS</author_name>
+    <email>mpayne@precision-design.org</email>
+    <download_url>https://drive.google.com/uc?export=download&id=13LduTYAPJSjpw_adQTNJbWupNTAUEzab</download_url>
+  </pyqgis_plugin>
+</plugins>
